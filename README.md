@@ -6,7 +6,10 @@ Currently a software engineer at Payments and Partnerships, building and hosting
 
 **Things I've built**
 
-- [**darksouls-mac**](https://github.com/aplaino/darksouls-mac): Dark Souls running natively on Apple silicon. The original 32-bit Windows code is statically recompiled to ARM64, with Direct3D 9, input and audio reimplemented on Metal and SDL3. No emulator, no Wine.
+- **Dark Souls on Apple silicon**: the Windows games statically recompiled to native ARM64, with Direct3D, input and audio reimplemented on Metal and SDL3. No emulator, no Wine, and no game files in the repos: a Builder app compiles the game from your own copy.
+  - [**darksouls3-mac**](https://github.com/aplaino/darksouls3-mac): Dark Souls III. 64-bit Direct3D 11, through Steam's DRM wrapper and Arxan, playable into the world.
+  - [**darksouls-mac**](https://github.com/aplaino/darksouls-mac): Dark Souls: Prepare to Die Edition.
+  - [**darksouls2-mac**](https://github.com/aplaino/darksouls2-mac): Dark Souls II, at a steady 60 fps.
 - [**evenTermidex**](https://github.com/aplaino/evenTermidex): drive a Claude Code session over SSH from Even Realities G2 smart glasses.
 - [**BSCwebsite**](https://github.com/aplaino/BSCwebsite): production site for a restaurant in Aurora, ON. React + Django, lead capture, menus. Live since 2025.
 - [**Tindelder**](https://github.com/aplaino/Tindelder): full-stack dating app MVP.
