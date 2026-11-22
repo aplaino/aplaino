@@ -7,10 +7,7 @@ Currently a software engineer at Payments and Partnerships, building and hosting
 **Things I've built**
 
 - [**Margin**](https://github.com/aplaino/margin): see what your friends are building, from a thin strip at the edge of your Mac's screen. Live presence from Claude Code, Codex, Cursor, Gemini CLI and six more coding tools, plus local models in Ollama and LM Studio, with end-to-end encrypted chat. Prompts and paths never leave your Mac. A SwiftUI app with a Bun background service, and a server on Fly.io and Postgres. [Download the beta](https://margin-api.fly.dev).
-- **Dark Souls on Apple silicon**: the Windows games statically recompiled to native ARM64, with Direct3D, input and audio reimplemented on Metal and SDL3. No emulator, no Wine, and no game files in the repos: a Builder app compiles the game from your own copy.
-  - [**darksouls3-mac**](https://github.com/aplaino/darksouls3-mac): Dark Souls III. 64-bit Direct3D 11, through Steam's DRM wrapper and Arxan, playable into the world.
-  - [**darksouls-mac**](https://github.com/aplaino/darksouls-mac): Dark Souls: Prepare to Die Edition.
-  - [**darksouls2-mac**](https://github.com/aplaino/darksouls2-mac): Dark Souls II, at a steady 60 fps.
+- [**darksouls-mac**](https://github.com/aplaino/darksouls-mac): Dark Souls: Prepare to Die Edition on Apple silicon. The Windows game statically recompiled to native ARM64, with Direct3D, input and audio reimplemented on Metal and SDL3. No emulator, no Wine, and no game files in the repo: a Builder app compiles the game from your own copy.
 - [**evenTermidex**](https://github.com/aplaino/evenTermidex): drive a Claude Code session over SSH from Even Realities G2 smart glasses.
 - [**BSCwebsite**](https://github.com/aplaino/BSCwebsite): production site for a restaurant in Aurora, ON. React + Django, lead capture, menus. Live since 2025.
 - [**Tindelder**](https://github.com/aplaino/Tindelder): full-stack dating app MVP.
