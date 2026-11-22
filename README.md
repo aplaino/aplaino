@@ -6,7 +6,7 @@ Currently a software engineer at Payments and Partnerships, building and hosting
 
 **Things I've built**
 
-- [**Margin**](https://github.com/aplaino/margin): see what your friends are building, from a thin strip at the edge of your Mac's screen. Live presence from Claude Code, Codex, Cursor, Gemini CLI and eight more coding tools, plus local models in Ollama and LM Studio, with end-to-end encrypted chat. Prompts and paths never leave your Mac. A SwiftUI app with a Bun background service, and a server on Fly.io and Postgres. [Download the beta](https://margin-api.fly.dev).
+- [**Margin**](https://github.com/aplaino/margin): see what your friends are building, from a thin strip at the edge of your Mac's screen. Live presence from Claude Code, Codex, Cursor, Gemini CLI and six more coding tools, plus local models in Ollama and LM Studio, with end-to-end encrypted chat. Prompts and paths never leave your Mac. A SwiftUI app with a Bun background service, and a server on Fly.io and Postgres. [Download the beta](https://margin-api.fly.dev).
 - **Dark Souls on Apple silicon**: the Windows games statically recompiled to native ARM64, with Direct3D, input and audio reimplemented on Metal and SDL3. No emulator, no Wine, and no game files in the repos: a Builder app compiles the game from your own copy.
   - [**darksouls3-mac**](https://github.com/aplaino/darksouls3-mac): Dark Souls III. 64-bit Direct3D 11, through Steam's DRM wrapper and Arxan, playable into the world.
   - [**darksouls-mac**](https://github.com/aplaino/darksouls-mac): Dark Souls: Prepare to Die Edition.
